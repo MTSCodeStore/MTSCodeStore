@@ -9,7 +9,7 @@ Estamos sempre **inovando** e **aprimorando** nossos serviços para atender às 
 
 ### Nossos Diferenciais:
 - 🤖 **Fácil Integração**: Bots que se integram facilmente ao seu servidor.
-- 🖌️ **Alta Personalização**: Configure os bots de acordo com suas necessidades específicas.
+- 🖌️ **Alta Personalização**: Configuramos os bots de acordo com suas necessidades específicas.
 - 👨‍💻 **Suporte Técnico**: Estamos sempre prontos para ajudar com qualquer dúvida ou problema.
 -  🌐**Hospedagem Acessível**: Hospedagem de alta qualidade que cabe no seu bolso.
 
